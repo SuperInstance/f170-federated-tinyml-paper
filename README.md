@@ -7,6 +7,7 @@ The on-device learning loop for the vessel-agent system.
 - [F170 v0.1](paper-479.md) — initial architecture + federated loop
 - [F170 v0.2](paper-480.md) — INT4 quantization + real aggregator + 4-substrate byte-exactness
 - [F170 v0.3](paper-481.md) — real audio (ESC-50) experiments + backbone-agnostic
+- [F170 v0.4](paper-482.md) — the full stack, the doctrine, the open questions
 
 ## Code
 
